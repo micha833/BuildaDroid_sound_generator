@@ -14,7 +14,7 @@ Wiring (also see arduino_soundmodule_wiring.jpg) :
 - Arudino D11 (upper pin row): Speaker Positive
 - Arduino GND (lower pin row): Servo Ground (brown or black wire)
 - Arduino VIN (lower pin row): Servo Positive (red wire)
-- Arduino D2 (upper pin row): Servo PWM signal wire
+- Arduino D2 (upper pin row): Servo PWM signal wire (yellow/orange wire)
 
 How to build:
 - upload BuildaDroid_sound_generator.ino to arduino
